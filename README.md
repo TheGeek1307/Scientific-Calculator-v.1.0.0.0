@@ -14,7 +14,7 @@ This web project aims to simulate the operation and features of a real calculato
 
 1. Download the code and the rest of the folders.
 2. Launch the project by opening the `index.html` file.
-   -This link leads you directly to the github host page: https://marck001.github.io/Scientific-Calculator/
+   -This link leads you directly to the github host page: https://TheGeek1307.github.io/Scientific-Calculator-v1.0.0.0/index.html
 ## Usage Instructions
 
 - Use this calculator mostly to perform basic arithmetic operations.

@@ -6,6 +6,12 @@
     letter-spacing: 1px;
 }
 
+doomnet{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
 body {
     min-height: 100vh;
     display: flex;

@@ -25,6 +25,7 @@ This web project aims to simulate the operation and features of a real calculato
 - The cursor control key is implemented to move through characters to the right and left.
 - Copy-and-paste features have replaced shift and alpha keys for convenience.
 - Some functions are temporarily omitted, such as log in any base, x/y, S⇔D, RCL, and hyp.
+- https://thegeek1307.github.io/Scientific-Calculator-v.1.0.0.0/
 
 ## Contributing
 

@@ -15,7 +15,7 @@ function computeCharacters(e) {
             buttonContent = '/';
             break;
         case 'π':
-            buttonContent = 3.1416;
+            buttonContent = 3.14159265358979323846264338327950288419716939937510;
             break;
         case '(-)':
             buttonContent = '-';
